@@ -8,7 +8,7 @@ The Coalition for Smarter Buildings (C4SB), now part of the Linux Foundation as 
 By fostering a collaborative community of manufacturers, software providers, integrators, and end-users. C4SBF accelerates the development and adoption of plug-and-play building technology, helping unlock smarter, more efficient, and future-proof building environments.
 
 ### Governing Board:
-Rick Justis (Executive Director), Tristan de Frondeville, Kennady Gayles-McGannon
+Rick Justis (Executive Director), Tristan de Frondeville, Kennady Gales McGannon
 
 **Website:** [c4sb.org](https://c4sb.org)
 
